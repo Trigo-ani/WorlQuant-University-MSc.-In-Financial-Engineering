@@ -1,0 +1,37 @@
+MScFE632 Course-Machine Learning in Finance | Module 1-Introduction to Machine Learning | Reflections & Technical Takeaways
+**Module 1 Reflections & Technical Takeaways:**This week’s deep dive into Supervised Learning has been a fantastic transition from spatial modeling to financial forecasting.
+
+Regression Foundations: Moving beyond basic Linear Regression to explore Penalized Models. Understanding how L1/L2 regularization handles high-dimensional financial data is crucial for preventing overfitting.
+Classification & Risk: Implementing Logistic Regression to determine the Probability of Default. Using the Confusion Matrix to balance precision and recall is a game-changer for credit risk assessment.
+Model Tuning: The emphasis on Hyperparameter optimization highlights the "Engineering" in Financial Engineering—it's about building robust, generalizable models.
+I’m looking forward to discussing how we can leverage these tools for predictive alpha and risk mitigation.
+
+0 seconds ago
+
+
+Subject: MScFE 632 | Module 2: Unsupervised Learning & Yield Curve PCA
+
+Technical Takeaways from Module 2:
+
+Clustering Dynamics: Mastering K-means and using the Elbow Plot to determine the optimal number of clusters—a vital tool for regime detection in volatile markets.
+
+Hierarchical Structures: Using Dendrograms to visualize complex relationships between assets, providing a more granular view than traditional correlation matrices.
+
+Dimensionality Reduction: Applying PCA to condense high-dimensional data. Understanding Loadings and Principal Components is essential for filtering market noise.
+
+Yield Curve Modeling: A standout application was using PCA for Interest Rate Modeling. Analyzing the covariance of yield curves to calculate Value at Risk (VaR) demonstrates the direct impact of unsupervised learning on risk management.
+
+#WQU #MScFE #MachineLearning #PCA #QuantFinance #UnsupervisedLearning
+
+0 seconds ago
+
+MScFE 632 | Module 3: Classification Problems with Bayes Methods and Classification Trees
+Technical Takeaways from Module 3:
+
+Bayesian Statistics: Shifting from static point estimates to a dynamic framework of Priors, Likelihood, and Posteriors. This allows for the integration of expert financial knowledge into the model fitting process.
+Naive Bayes in Practice: Utilizing Gaussian Distributions for model fitting. In high-dimensional financial markets, the assumption of independence offers a powerful baseline for classification.
+Decision Trees: Moving from linear logic to non-linear partitioning. Mastering Gini Impurity to create Homogeneous Nodes has been key to understanding how trees segment market risk.
+Ensemble & Performance: Exploring Boosting and evaluating robustness via the ROC Curve and Area Under the Curve (AUC). These metrics are vital for ensuring our models perform under real-world testing conditions.
+#WQU #MScFE #MachineLearning #Bayesian #DecisionTrees #QuantFinance #DataScience #Python
+
+0 seconds ago

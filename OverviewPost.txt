@@ -1,0 +1,9 @@
+Headline: From Industrial Digital Twins to Quant Finance: Modeling Complexity 🚀
+
+My journey is about solving complex human problems through data. I’m currently bridging my CS Engineering and MBA Finance backgrounds via the Machine Learning module at WorldQuant University. I am especially grateful for WQU’s mission—offering a rigorous, tuition-free MScFE degree to students globally.
+
+My research is built on strong interdisciplinary foundations: 🔹 Industrial VR: Developed collaborative shop floor tools under Dr. Vincent Havard (CESI, France). 🔹 Social Impact: Prototyped simulations for Food, Clothing, and Shelter under Dr. Rajveer Singh Shekhawat. 🔹 Quant ML: Now, I’m applying these modeling skills to markets—using Python, LSTMs, and PCA to distill signal from noise.
+
+None of this would be possible without the constant support of my father, Ashutosh Chandra Trigunayat. As I refine my PhD research on interactive simulations, I’m merging technical rigor with financial mastery to build a more resilient future. 📈
+
+#QuantFinance #MachineLearning #WQU #FinancialEngineering #PhD #Research #VR #Python
