@@ -1,0 +1,13 @@
+Advanced Financial Models 
+
+Delving into advanced financial modeling!
+
+I've learned about Geometric Brownian Motion (GBM), a model for asset prices that has the Markov property. Using Ito's Lemma, this leads to the famous Black-Scholes model for option pricing and their Greeks.
+
+For more complex cases, Monte Carlo methods simulate thousands of price paths. Interestingly, for a standard European option, it converges with the Black-Scholes price!
+
+We also covered the Vasicek model, a mean-reverting process for realistically simulating interest rates.
+
+These tools provide powerful ways to value and hedge derivatives.
+
+#Finance #Derivatives #BlackScholes #MonteCarlo #GBM #QuantFinance
